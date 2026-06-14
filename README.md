@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ShadowFit UI
 
-![](media/profiles/Manage_Users_Admin.png)
+![](images/Picture1.png)
