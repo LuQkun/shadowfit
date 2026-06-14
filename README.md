@@ -36,6 +36,9 @@ samples, guidance on mobile development, and a full API reference.
 ![](images/media.jpeg)
 
 ---
+
+<img src="images/mobile%20extend1.png" width="100">
+
 ![](images/mobile%20extend1.png)
 
 ---
