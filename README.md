@@ -22,3 +22,20 @@ samples, guidance on mobile development, and a full API reference.
 ## ShadowFit UI
 
 ![](images/Picture1.png)
+
+---
+![](images/Picture2.png)
+
+---
+![](images/database.png)
+
+---
+![](images/home.png)
+
+---
+![](images/media.jpeg)
+
+---
+![](images/mobile%20extend.png)
+
+---
